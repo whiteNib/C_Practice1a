@@ -1,0 +1,6 @@
+﻿  Practice1a.cpp
+C:\Users\Q\source\repos\Practice1a\Practice1a.cpp(47,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Q\source\repos\Practice1a\Practice1a.cpp(65,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Q\source\repos\Practice1a\Practice1a.cpp(71,31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Q\source\repos\Practice1a\Practice1a.cpp(77,31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Practice1a.vcxproj -> C:\Users\Q\source\repos\Practice1a\x64\Debug\Practice1a.exe
